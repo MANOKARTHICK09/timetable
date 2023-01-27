@@ -39,7 +39,7 @@ Execute the program
                 <th>22002165</th>
                 <th></th>
                 <th>Name:MANOKARTHICK</th>
-                <th>Chandru</th>
+                <th></th>
             </tr>
             <tr>
                 <th>Day</th>
